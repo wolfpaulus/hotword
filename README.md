@@ -1,0 +1,2 @@
+# WakeWord4Android
+# hotword
